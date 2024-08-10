@@ -1,4 +1,4 @@
 # master-nicolas
 primer repo creado en github
-## descrioción
+## descripción
 Este es un repo para ver como funciona github
